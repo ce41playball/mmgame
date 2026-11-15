@@ -1,0 +1,6 @@
+{
+  "name": "SkyStack 都市汽車疊疊樂",
+  "description": "一款都市明快街機風 2D 汽車疊疊樂手機遊戲，透過點擊上方吊臂精準落車、即時裁切多餘車身與完美連擊挑戰最高車塔。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
